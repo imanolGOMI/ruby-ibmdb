@@ -3,7 +3,7 @@ require 'net/http'
 require 'open-uri'
 require 'rubygems/package'
 require 'zlib'
-require 'zip'
+require 'rubyzip'
 require 'fileutils'
 require 'down'
 
